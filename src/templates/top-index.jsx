@@ -34,10 +34,6 @@ export const query = graphql`
         frontmatter {
           brand
           anchor
-          clients {
-            href
-            imageFileName
-          }
           content
           copyright
           header
@@ -86,13 +82,6 @@ export const query = graphql`
           termsHref
           termsText
           title
-          timeline {
-            content
-            header
-            imageContent
-            imageFileName
-            subheader
-          }
         }
         fields {
           fileName
@@ -114,11 +103,11 @@ const IndexPage = ({ data, pathContext: { langKey, defaultLang, langTextMap } })
   const { topNode, navBarNode, anchors, footerNode, sectionsNodes } = breakDownAllNodes(nodes);
 
   let langSelectorPart;
-  if (langTextMap != null && Object.keys(langTextMap).length > 1) {
-    langSelectorPart = (
-      <LanguageSelector langKey={langKey} defaultLang={defaultLang} langTextMap={langTextMap} />
-    );
-  }
+  // if (langTextMap != null && Object.keys(langTextMap).length > 1) {
+  //   langSelectorPart = (
+  //     <LanguageSelector langKey={langKey} defaultLang={defaultLang} langTextMap={langTextMap} />
+  //   );
+  // }
 
   return (
     <>

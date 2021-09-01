@@ -1,4 +1,4 @@
 ---
-brand: "Start Bootstrap"
+brand: "Vidrios y Aluminios Arquitectonicos"
 menuText: "メニュー "
 ---

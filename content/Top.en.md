@@ -1,7 +1,7 @@
 ---
-header: "It's Nice To Meet You"
-subheader: "Welcome To Our Studio!"
+header: "¿Quieres remodelar?"
+subheader: "Bienvenido!"
 imageFileName: "header-bg.jpg"
-jumpToAnchor: "Services"
-jumpToAnchorText: "Tell Me More"
+jumpToAnchor: "Servicios"
+jumpToAnchorText: "Cuentanos tu proyecto"
 ---

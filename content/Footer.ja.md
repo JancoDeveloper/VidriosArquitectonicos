@@ -1,5 +1,5 @@
 ---
-copyright: "Copyright © Start Bootstrap 2020"
+copyright: "Copyright © Vidrios y Aluminios Arquitectonicos 2021"
 social: {
   twitter: "#",
   facebook: "#",

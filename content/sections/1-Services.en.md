@@ -1,22 +1,22 @@
 ---
-anchor: "Services"
-header: "Services"
-subheader: "Lorem ipsum dolor sit amet consectetur."
+anchor: "Servicios"
+header: "Servicios"
+subheader: "Hacemos todo tipo de trabajo relacionado con aluminio y vidrio."
 services: [
   {
     iconName: "ShoppingCartIcon",
-    header: "E-Commerce",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    header: "Negocios",
+    content: "Divisiones, puertas, ventanas con tu marca personal o con el logo de tu negocio"
   },
   {
     iconName: "LaptopIcon",
-    header: "Responsive Design",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    header: "Hogar",
+    content: "Diseños, divisiones, estructuras para todo el hogar."
   },
   {
     iconName: "LockIcon",
-    header: "Web Security",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    header: "Seguridad",
+    content: "Estructuras y diseños seguros."
   }
 ]
 ---
